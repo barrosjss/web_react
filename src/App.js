@@ -1,14 +1,18 @@
-import './App.css';
+import './App.css'
 import {
   BrowserRouter as Router,
   Routes,
   Route
-} from "react-router-dom";
+} from "react-router-dom"
 
-import Navbar from './components/Navbar';
-import Home from './pages/Home';
-import About from './pages/About';
-import Contact from './pages/Contact';
+import Navbar from './components/principal/Navbar'
+import Footer from './components/principal/Footer'
+
+import Home from './pages/Home'
+import Training from './pages/Training'
+import Contact from './pages/Contact'
+
+import Pokemon from './pages/test/pokemon/Pokemon'
 
 function App() {
   return (
@@ -17,12 +21,15 @@ function App() {
         <Navbar />
         <Routes>
           <Route path='/' element={<Home />} />
-          <Route path='/about' element={<About />} />
+          <Route path='/training' element={<Training />} />
           <Route path='/contact' element={<Contact />} />
+
+          <Route path='/pokemon' element={<Pokemon />} />
         </Routes>
+        <Footer />
       </Router>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

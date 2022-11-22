@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Squirtle",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+    "type": "Agua",
+    "color": "blue",
+    "url": "https://www.pokemon.com/el/pokedex/squirtle"
+  },
+  {
+    "name": "Charmander",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "type": "Fuego",
+    "color": "red",
+    "url": "https://www.pokemon.com/el/pokedex/charmander"
+  },
+  {
+    "name": "Bulbasaur",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "type": "Planta",
+    "color": "green",
+    "url": "https://www.pokemon.com/el/pokedex/bulbasaur"
+  },
+  {
+    "name": "Pikachu",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "type": "Electrico",
+    "color": "yellow",
+    "url": "https://www.pokemon.com/el/pokedex/pikachu"
+  },
+  {
+    "name": "Metapod",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+    "type": "Bicho",
+    "color": "Green",
+    "url": "https://www.pokemon.com/el/pokedex/metapod"
+  },
+  {
+    "name": "Weedle",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+    "type": "Bicho",
+    "color": "Green",
+    "url": "https://www.pokemon.com/el/pokedex/weedle"
+  },
+  {
+    "name": "Nidorina",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
+    "type": "Veneno",
+    "color": "purple",
+    "url": "https://www.pokemon.com/el/pokedex/nidorina"
+  },
+  {
+    "name": "Golduck",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
+    "type": "Agua",
+    "color": "blue",
+    "url": "https://www.pokemon.com/el/pokedex/pikachu"
+  },
+  {
+    "name": "Poliwhirl",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
+    "type": "Agua",
+    "color": "blue",
+    "url": "https://www.pokemon.com/el/pokedex/poliwhirl"
+  },
+  {
+    "name": "Zapdos",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
+    "type": "Electrico",
+    "color": "yellow",
+    "url": "https://www.pokemon.com/el/pokedex/zapdos"
+  }
+]
