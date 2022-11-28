@@ -88,5 +88,3 @@ export default function DeactivateBox() {
     </>
   )
 }
-
-// onClick={e => setStatus(!status)}

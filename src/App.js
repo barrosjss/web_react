@@ -5,14 +5,14 @@ import {
   Route
 } from "react-router-dom"
 
-import Navbar from './components/principal/Navbar'
-import Footer from './components/principal/Footer'
+import Navbar from './components/principal/Navbar.js'
+import Footer from './components/principal/Footer.js'
 
-import Home from './pages/Home'
-import Training from './pages/Training'
-import Contact from './pages/Contact'
+import Home from './components/pages/Home.js'
+import Training from './components/pages/Training.js'
+import Contact from './components/pages/Contact.js'
 
-import Pokemon from './pages/test/pokemon/Pokemon'
+import Pokemon from './components/pokemon/Pokemon.js'
 
 function App() {
   return (
